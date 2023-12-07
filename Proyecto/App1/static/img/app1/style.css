@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center; 
+}
+.header {
+    text-align: left;
+    margin-bottom: 20px;
+}
+.integrantes {
+    text-align: left;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #444; 
+    color: white; 
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;  
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #666; 
+}
+
+.integrantes img {
+    width: 300px; 
+    margin-top: 25px; 
+}
+
+
+

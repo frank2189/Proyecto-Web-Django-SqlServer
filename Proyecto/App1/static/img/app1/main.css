@@ -1,0 +1,34 @@
+
+
+.bg-back{
+    background: black !important;
+}
+.image-link {
+    display: inline-block;
+    position: relative;
+    margin-right: 40px; 
+    margin-bottom: 40px; 
+}
+
+.image-link:hover {
+    border: 3px solid white; 
+    box-sizing: border-box; 
+
+}
+.image-link a img {
+    max-width: 100%; 
+    height: auto; 
+    margin-top: 25px; 
+}
+.img-fluid {
+    width: 300px; 
+    height: auto;
+    margin-top: 30px; 
+}
+.logo-container {
+    text-align: right; 
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+
