@@ -13,6 +13,7 @@ mas completo.
 
 versiones utilizadas
 Django                         3.2.5
+Python                         3.10.5
 django-mssql-backend           2.8.1 
 pyodbc                         5.0.1 
 Visual Studio Code             1.84.2 
