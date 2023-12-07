@@ -1,9 +1,9 @@
 # Proyecto-Web-Django-SqlServer
 Este es un proyecto academico el cual, esta orientado a crear un diseño web.
 Donde se pasan 2 consultas parametrizadas de sql para obtener la informacion 
-de la base de datos COntosoRetailDW que esta alojada en el gestor de base de 
-datos SQL Server, para hacer conexcion con la base de datos se ha utilizado 
-el el drive ODBC 17. la estructura esta sobre MVT pero en este caso las consultas
+de la base de datos ContosoRetailDW que esta alojada en el gestor de base de 
+datos SQL Server, para hacer conexiòn con la base de datos se ha utilizado 
+el drive ODBC 17. la estructura esta sobre MVT pero en este caso las consultas
 se realizaron directamente en las Viwes ya que no estamos modelando tablas si no
 extrayendo datos.
 
